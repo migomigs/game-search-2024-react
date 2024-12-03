@@ -1,5 +1,5 @@
 export const gameList = {
-  count: 877613,
+  count: 877732,
   next: "https://api.rawg.io/api/games?key=861a7903b4474782a2c751a0380c02da&page=2",
   previous: null,
   results: [
@@ -41,13 +41,13 @@ export const gameList = {
       ],
       ratings_count: 6939,
       reviews_text_count: 63,
-      added: 21394,
+      added: 21399,
       added_by_status: {
         yet: 535,
-        owned: 12333,
-        beaten: 6062,
+        owned: 12336,
+        beaten: 6063,
         toplay: 610,
-        dropped: 1123,
+        dropped: 1124,
         playing: 731,
       },
       metacritic: 92,
@@ -67,9 +67,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2013-09-17",
           requirements_en: {
@@ -120,9 +120,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2013-09-17",
           requirements_en: null,
@@ -205,9 +205,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
       ],
       stores: [
@@ -218,9 +218,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -242,7 +242,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -279,43 +279,43 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -333,7 +333,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -342,81 +342,81 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 37,
           name: "Sandbox",
           slug: "sandbox",
           language: "eng",
-          games_count: 7391,
+          games_count: 7393,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
         },
         {
           id: 123,
           name: "Comedy",
           slug: "comedy",
           language: "eng",
-          games_count: 13145,
+          games_count: 13150,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg",
+            "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
         },
         {
           id: 150,
           name: "Third-Person Shooter",
           slug: "third-person-shooter",
           language: "eng",
-          games_count: 3668,
+          games_count: 3670,
           image_background:
-            "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg",
+            "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg",
         },
         {
           id: 62,
@@ -527,10 +527,10 @@ export const gameList = {
       ],
       ratings_count: 6707,
       reviews_text_count: 76,
-      added: 20921,
+      added: 20923,
       added_by_status: {
         yet: 1135,
-        owned: 12220,
+        owned: 12222,
         beaten: 4928,
         toplay: 797,
         dropped: 960,
@@ -585,9 +585,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2015-05-18",
           requirements_en: null,
@@ -601,9 +601,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2015-05-18",
           requirements_en: null,
@@ -617,9 +617,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 5551,
+            games_count: 5552,
             image_background:
-              "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+              "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
           },
           released_at: "2015-05-18",
           requirements_en: null,
@@ -633,9 +633,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2015-05-18",
           requirements_en: null,
@@ -700,17 +700,17 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 5,
           name: "RPG",
           slug: "role-playing-games-rpg",
-          games_count: 57980,
+          games_count: 57991,
           image_background:
-            "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+            "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
         },
       ],
       stores: [
@@ -733,9 +733,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -745,7 +745,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -769,9 +769,9 @@ export const gameList = {
             name: "Nintendo Store",
             slug: "nintendo",
             domain: "nintendo.com",
-            games_count: 9085,
+            games_count: 9086,
             image_background:
-              "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+              "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
           },
         },
       ],
@@ -782,25 +782,25 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -818,7 +818,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -827,72 +827,72 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 64,
           name: "Fantasy",
           slug: "fantasy",
           language: "eng",
-          games_count: 29382,
+          games_count: 29391,
           image_background:
-            "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+            "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg",
         },
         {
           id: 37,
           name: "Sandbox",
           slug: "sandbox",
           language: "eng",
-          games_count: 7391,
+          games_count: 7393,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
         },
         {
           id: 97,
           name: "Action RPG",
           slug: "action-rpg",
           language: "eng",
-          games_count: 7504,
+          games_count: 7508,
           image_background:
-            "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+            "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg",
         },
         {
           id: 41,
           name: "Dark",
           slug: "dark",
           language: "eng",
-          games_count: 16673,
+          games_count: 16680,
           image_background:
-            "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg",
+            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
         },
         {
           id: 44,
           name: "Nudity",
           slug: "nudity",
           language: "eng",
-          games_count: 7162,
+          games_count: 7164,
           image_background:
-            "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+            "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
         },
         {
           id: 336,
@@ -908,54 +908,54 @@ export const gameList = {
           name: "Choices Matter",
           slug: "choices-matter",
           language: "eng",
-          games_count: 6291,
+          games_count: 6294,
           image_background:
-            "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg",
+            "https://media.rawg.io/media/games/046/0464f4a36cd975a37c95b93b06058855.jpg",
         },
         {
           id: 192,
           name: "Mature",
           slug: "mature",
           language: "eng",
-          games_count: 3628,
+          games_count: 3631,
           image_background:
-            "https://media.rawg.io/media/games/bd7/bd7cfccfececba1ec2b97a120a40373f.jpg",
+            "https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg",
         },
         {
           id: 40,
           name: "Dark Fantasy",
           slug: "dark-fantasy",
           language: "eng",
-          games_count: 4642,
+          games_count: 4646,
           image_background:
-            "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg",
+            "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
         },
         {
           id: 66,
           name: "Medieval",
           slug: "medieval",
           language: "eng",
-          games_count: 6918,
+          games_count: 6919,
           image_background:
-            "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+            "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg",
         },
         {
           id: 82,
           name: "Magic",
           slug: "magic",
           language: "eng",
-          games_count: 10024,
+          games_count: 10028,
           image_background:
-            "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+            "https://media.rawg.io/media/games/e75/e75c54e5a9a2754bab181b2240472389.jpg",
         },
         {
           id: 218,
           name: "Multiple Endings",
           slug: "multiple-endings",
           language: "eng",
-          games_count: 9570,
+          games_count: 9574,
           image_background:
-            "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
+            "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
         },
       ],
       esrb_rating: {
@@ -1016,13 +1016,13 @@ export const gameList = {
           id: 5,
           title: "exceptional",
           count: 4046,
-          percent: 69.66,
+          percent: 69.65,
         },
         {
           id: 4,
           title: "recommended",
-          count: 1460,
-          percent: 25.14,
+          count: 1461,
+          percent: 25.15,
         },
         {
           id: 3,
@@ -1037,13 +1037,13 @@ export const gameList = {
           percent: 2.31,
         },
       ],
-      ratings_count: 5756,
+      ratings_count: 5757,
       reviews_text_count: 35,
-      added: 19825,
+      added: 19827,
       added_by_status: {
         yet: 639,
-        owned: 12466,
-        beaten: 5574,
+        owned: 12467,
+        beaten: 5575,
         toplay: 385,
         dropped: 605,
         playing: 156,
@@ -1051,9 +1051,9 @@ export const gameList = {
       metacritic: 95,
       playtime: 11,
       suggestions_count: 553,
-      updated: "2024-12-01T15:18:17",
+      updated: "2024-12-03T05:55:53",
       user_game: null,
-      reviews_count: 5808,
+      reviews_count: 5809,
       saturated_color: "0f0f0f",
       dominant_color: "0f0f0f",
       platforms: [
@@ -1081,9 +1081,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2011-04-18",
           requirements_en: null,
@@ -1118,9 +1118,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2011-04-18",
           requirements_en: null,
@@ -1134,9 +1134,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2011-04-18",
           requirements_en: null,
@@ -1234,7 +1234,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -1246,9 +1246,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -1271,52 +1271,52 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -1334,90 +1334,90 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 118,
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 189,
           name: "Female Protagonist",
           slug: "female-protagonist",
           language: "eng",
-          games_count: 13387,
+          games_count: 13395,
           image_background:
-            "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+            "https://media.rawg.io/media/games/10d/10d19e52e5e8415d16a4d344fe711874.jpg",
         },
         {
           id: 123,
           name: "Comedy",
           slug: "comedy",
           language: "eng",
-          games_count: 13145,
+          games_count: 13150,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg",
+            "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
         },
         {
           id: 75,
@@ -1433,16 +1433,16 @@ export const gameList = {
           name: "stats",
           slug: "stats",
           language: "eng",
-          games_count: 5207,
+          games_count: 5209,
           image_background:
-            "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
+            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
         },
         {
           id: 40852,
           name: "Steam Workshop",
           slug: "steam-workshop",
           language: "eng",
-          games_count: 1579,
+          games_count: 1580,
           image_background:
             "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
         },
@@ -1451,18 +1451,18 @@ export const gameList = {
           name: "Space",
           slug: "space",
           language: "eng",
-          games_count: 43266,
+          games_count: 43267,
           image_background:
-            "https://media.rawg.io/media/games/bd2/bd2cc7714e0b9b1adad1ba1b2400d436.jpg",
+            "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg",
         },
         {
           id: 40838,
           name: "Includes level editor",
           slug: "includes-level-editor",
           language: "eng",
-          games_count: 1962,
+          games_count: 1963,
           image_background:
-            "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+            "https://media.rawg.io/media/games/003/0031c0067559d41df19cf98ad87e02aa.jpg",
         },
         {
           id: 40833,
@@ -1487,9 +1487,9 @@ export const gameList = {
           name: "Science",
           slug: "science",
           language: "eng",
-          games_count: 1820,
+          games_count: 1821,
           image_background:
-            "https://media.rawg.io/media/screenshots/f19/f194138b1e493d0d62a8421beb2575b6.jpg",
+            "https://media.rawg.io/media/screenshots/0cf/0cfe4ec4dcffb8fcac999d7176c69176.jpg",
         },
       ],
       esrb_rating: {
@@ -1573,13 +1573,13 @@ export const gameList = {
       ],
       ratings_count: 3513,
       reviews_text_count: 27,
-      added: 17509,
+      added: 17513,
       added_by_status: {
         yet: 265,
-        owned: 13440,
+        owned: 13442,
         beaten: 1065,
         toplay: 78,
-        dropped: 2036,
+        dropped: 2038,
         playing: 625,
       },
       metacritic: 81,
@@ -1599,9 +1599,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2012-08-21",
           requirements_en: {
@@ -1623,9 +1623,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2012-08-21",
           requirements_en: null,
@@ -1712,9 +1712,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -1724,7 +1724,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -1749,27 +1749,27 @@ export const gameList = {
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 7808,
@@ -1785,45 +1785,45 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 80,
@@ -1839,16 +1839,16 @@ export const gameList = {
           name: "stats",
           slug: "stats",
           language: "eng",
-          games_count: 5207,
+          games_count: 5209,
           image_background:
-            "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
+            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
         },
         {
           id: 40852,
           name: "Steam Workshop",
           slug: "steam-workshop",
           language: "eng",
-          games_count: 1579,
+          games_count: 1580,
           image_background:
             "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
         },
@@ -1857,9 +1857,9 @@ export const gameList = {
           name: "PvP",
           slug: "pvp",
           language: "eng",
-          games_count: 10115,
+          games_count: 10121,
           image_background:
-            "https://media.rawg.io/media/games/179/179245a3693049a11a25b900ab18f8f7.jpg",
+            "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg",
         },
         {
           id: 62,
@@ -1875,36 +1875,36 @@ export const gameList = {
           name: "War",
           slug: "war",
           language: "eng",
-          games_count: 9543,
+          games_count: 9544,
           image_background:
-            "https://media.rawg.io/media/games/1a1/1a17e9b6286edb7e1f1e510110ccb0c0.jpg",
+            "https://media.rawg.io/media/games/21a/21ad672cedee9b4378abb6c2d2e626ee.jpg",
         },
         {
           id: 40837,
           name: "In-App Purchases",
           slug: "in-app-purchases",
           language: "eng",
-          games_count: 2893,
+          games_count: 2894,
           image_background:
-            "https://media.rawg.io/media/games/651/651ae84f2d5e36206aad90976a453329.jpg",
+            "https://media.rawg.io/media/games/93e/93ee6101e1c943732f06080dddb0fe4c.jpg",
         },
         {
           id: 77,
           name: "Realistic",
           slug: "realistic",
           language: "eng",
-          games_count: 6841,
+          games_count: 6845,
           image_background:
-            "https://media.rawg.io/media/games/ccd/ccd40e8f86c0ae10a082b610d31d4475.jpg",
+            "https://media.rawg.io/media/games/e43/e43f9f0a1429bd9332020ac5876bc693.jpg",
         },
         {
           id: 11,
           name: "Team-Based",
           slug: "team-based",
           language: "eng",
-          games_count: 1743,
+          games_count: 1744,
           image_background:
-            "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg",
+            "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
         },
         {
           id: 131,
@@ -2042,10 +2042,10 @@ export const gameList = {
       ],
       ratings_count: 3923,
       reviews_text_count: 14,
-      added: 17040,
+      added: 17042,
       added_by_status: {
         yet: 687,
-        owned: 11139,
+        owned: 11141,
         beaten: 4277,
         toplay: 276,
         dropped: 547,
@@ -2068,9 +2068,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2013-03-05",
           requirements_en: null,
@@ -2116,9 +2116,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2013-03-05",
           requirements_en: {
@@ -2135,9 +2135,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2013-03-05",
           requirements_en: {
@@ -2201,9 +2201,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 6,
@@ -2234,7 +2234,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -2246,9 +2246,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -2295,34 +2295,34 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -2331,7 +2331,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -2340,18 +2340,18 @@ export const gameList = {
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 6,
           name: "Exploration",
           slug: "exploration",
           language: "eng",
-          games_count: 24956,
+          games_count: 24964,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
         },
         {
           id: 193,
@@ -2367,63 +2367,63 @@ export const gameList = {
           name: "Female Protagonist",
           slug: "female-protagonist",
           language: "eng",
-          games_count: 13387,
+          games_count: 13395,
           image_background:
-            "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+            "https://media.rawg.io/media/games/10d/10d19e52e5e8415d16a4d344fe711874.jpg",
         },
         {
           id: 15,
           name: "Stealth",
           slug: "stealth",
           language: "eng",
-          games_count: 6539,
+          games_count: 6542,
           image_background:
-            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+            "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
         },
         {
           id: 69,
           name: "Action-Adventure",
           slug: "action-adventure",
           language: "eng",
-          games_count: 17901,
+          games_count: 17910,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
         },
         {
           id: 150,
           name: "Third-Person Shooter",
           slug: "third-person-shooter",
           language: "eng",
-          games_count: 3668,
+          games_count: 3670,
           image_background:
-            "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg",
+            "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg",
         },
         {
           id: 74,
           name: "Retro",
           slug: "retro",
           language: "eng",
-          games_count: 42443,
+          games_count: 42449,
           image_background:
-            "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg",
+            "https://media.rawg.io/media/games/2ae/2aedae90b1377a0f3e5ce54d24f8e41a.jpg",
         },
         {
           id: 110,
           name: "Cinematic",
           slug: "cinematic",
           language: "eng",
-          games_count: 2538,
+          games_count: 2540,
           image_background:
-            "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
+            "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
         },
         {
           id: 269,
           name: "Quick-Time Events",
           slug: "quick-time-events",
           language: "eng",
-          games_count: 702,
+          games_count: 703,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/560/56056a71c74f751552c9baedebf8f317.jpg",
         },
         {
           id: 126,
@@ -2525,14 +2525,14 @@ export const gameList = {
       ],
       ratings_count: 4760,
       reviews_text_count: 28,
-      added: 16876,
+      added: 16878,
       added_by_status: {
-        yet: 455,
-        owned: 10615,
-        beaten: 5058,
+        yet: 453,
+        owned: 10617,
+        beaten: 5059,
         toplay: 272,
         dropped: 397,
-        playing: 79,
+        playing: 80,
       },
       metacritic: 90,
       playtime: 4,
@@ -2551,9 +2551,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2007-10-09",
           requirements_en: {
@@ -2570,9 +2570,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2007-10-09",
           requirements_en: {
@@ -2644,9 +2644,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2007-10-09",
           requirements_en: null,
@@ -2660,9 +2660,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 5551,
+            games_count: 5552,
             image_background:
-              "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+              "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
           },
           released_at: "2007-10-09",
           requirements_en: null,
@@ -2725,9 +2725,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 7,
@@ -2746,7 +2746,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -2771,25 +2771,25 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -2807,54 +2807,54 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 193,
@@ -2870,27 +2870,27 @@ export const gameList = {
           name: "Female Protagonist",
           slug: "female-protagonist",
           language: "eng",
-          games_count: 13387,
+          games_count: 13395,
           image_background:
-            "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+            "https://media.rawg.io/media/games/10d/10d19e52e5e8415d16a4d344fe711874.jpg",
         },
         {
           id: 123,
           name: "Comedy",
           slug: "comedy",
           language: "eng",
-          games_count: 13145,
+          games_count: 13150,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg",
+            "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
         },
         {
           id: 40838,
           name: "Includes level editor",
           slug: "includes-level-editor",
           language: "eng",
-          games_count: 1962,
+          games_count: 1963,
           image_background:
-            "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+            "https://media.rawg.io/media/games/003/0031c0067559d41df19cf98ad87e02aa.jpg",
         },
         {
           id: 40833,
@@ -2915,18 +2915,18 @@ export const gameList = {
           name: "Physics",
           slug: "physics",
           language: "eng",
-          games_count: 19912,
+          games_count: 19913,
           image_background:
-            "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg",
+            "https://media.rawg.io/media/screenshots/ca8/ca840f2a8ebfc74aac1688367dc1f903.jpg",
         },
         {
           id: 148,
           name: "Dark Humor",
           slug: "dark-humor",
           language: "eng",
-          games_count: 3198,
+          games_count: 3199,
           image_background:
-            "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg",
+            "https://media.rawg.io/media/games/bfb/bfb2bf7a0413443b1fcf0be7c3244053.jpg",
         },
         {
           id: 40834,
@@ -2951,9 +2951,9 @@ export const gameList = {
           name: "Science",
           slug: "science",
           language: "eng",
-          games_count: 1820,
+          games_count: 1821,
           image_background:
-            "https://media.rawg.io/media/screenshots/f19/f194138b1e493d0d62a8421beb2575b6.jpg",
+            "https://media.rawg.io/media/screenshots/0cf/0cfe4ec4dcffb8fcac999d7176c69176.jpg",
         },
       ],
       esrb_rating: {
@@ -3037,11 +3037,11 @@ export const gameList = {
       ],
       ratings_count: 3287,
       reviews_text_count: 12,
-      added: 16770,
+      added: 16772,
       added_by_status: {
         yet: 384,
-        owned: 12385,
-        beaten: 2535,
+        owned: 12386,
+        beaten: 2536,
         toplay: 114,
         dropped: 1202,
         playing: 150,
@@ -3063,9 +3063,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2009-11-17",
           requirements_en: null,
@@ -3079,9 +3079,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2009-11-17",
           requirements_en: null,
@@ -3095,9 +3095,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2009-11-17",
           requirements_en: {
@@ -3165,9 +3165,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -3186,7 +3186,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -3211,45 +3211,45 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 7808,
@@ -3265,54 +3265,54 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 16,
           name: "Horror",
           slug: "horror",
           language: "eng",
-          games_count: 45875,
+          games_count: 45884,
           image_background:
-            "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+            "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 26,
@@ -3328,9 +3328,9 @@ export const gameList = {
           name: "Survival",
           slug: "survival",
           language: "eng",
-          games_count: 9364,
+          games_count: 9367,
           image_background:
-            "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg",
+            "https://media.rawg.io/media/games/ebd/ebdbb7eb52bd58b0e7fa4538d9757b60.jpg",
         },
         {
           id: 75,
@@ -3355,16 +3355,16 @@ export const gameList = {
           name: "stats",
           slug: "stats",
           language: "eng",
-          games_count: 5207,
+          games_count: 5209,
           image_background:
-            "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
+            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
         },
         {
           id: 40852,
           name: "Steam Workshop",
           slug: "steam-workshop",
           language: "eng",
-          games_count: 1579,
+          games_count: 1580,
           image_background:
             "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
         },
@@ -3373,9 +3373,9 @@ export const gameList = {
           name: "Zombies",
           slug: "zombies",
           language: "eng",
-          games_count: 10580,
+          games_count: 10582,
           image_background:
-            "https://media.rawg.io/media/games/56e/56ed40948bebaf1968234aa6e3c74771.jpg",
+            "https://media.rawg.io/media/games/1be/1be575aa6de86de328433a63fb534d9a.jpg",
         },
         {
           id: 62,
@@ -3391,18 +3391,18 @@ export const gameList = {
           name: "Survival Horror",
           slug: "survival-horror",
           language: "eng",
-          games_count: 8898,
+          games_count: 8901,
           image_background:
-            "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
+            "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
         },
         {
           id: 43,
           name: "Post-apocalyptic",
           slug: "post-apocalyptic",
           language: "eng",
-          games_count: 4258,
+          games_count: 4263,
           image_background:
-            "https://media.rawg.io/media/games/152/152e788b7504aa2753c86dae912fb34c.jpg",
+            "https://media.rawg.io/media/games/447/4470c1e76f01acfaf5af9c207d1c1c92.jpg",
         },
         {
           id: 40833,
@@ -3427,9 +3427,9 @@ export const gameList = {
           name: "Team-Based",
           slug: "team-based",
           language: "eng",
-          games_count: 1743,
+          games_count: 1744,
           image_background:
-            "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg",
+            "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
         },
         {
           id: 40856,
@@ -3540,11 +3540,11 @@ export const gameList = {
       ],
       ratings_count: 4678,
       reviews_text_count: 34,
-      added: 16099,
+      added: 16101,
       added_by_status: {
         yet: 508,
-        owned: 9647,
-        beaten: 3802,
+        owned: 9648,
+        beaten: 3803,
         toplay: 420,
         dropped: 1329,
         playing: 393,
@@ -3566,9 +3566,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2011-11-11",
           requirements_en: {
@@ -3640,9 +3640,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2011-11-11",
           requirements_en: null,
@@ -3656,9 +3656,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 5551,
+            games_count: 5552,
             image_background:
-              "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+              "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
           },
           released_at: "2011-11-11",
           requirements_en: null,
@@ -3732,17 +3732,17 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 5,
           name: "RPG",
           slug: "role-playing-games-rpg",
-          games_count: 57980,
+          games_count: 57991,
           image_background:
-            "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+            "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
         },
       ],
       stores: [
@@ -3753,9 +3753,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -3765,7 +3765,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -3777,9 +3777,9 @@ export const gameList = {
             name: "Nintendo Store",
             slug: "nintendo",
             domain: "nintendo.com",
-            games_count: 9085,
+            games_count: 9086,
             image_background:
-              "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+              "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
           },
         },
         {
@@ -3802,34 +3802,34 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -3856,7 +3856,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -3865,79 +3865,79 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 64,
           name: "Fantasy",
           slug: "fantasy",
           language: "eng",
-          games_count: 29382,
+          games_count: 29391,
           image_background:
-            "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+            "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg",
         },
         {
           id: 37,
           name: "Sandbox",
           slug: "sandbox",
           language: "eng",
-          games_count: 7391,
+          games_count: 7393,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
         },
         {
           id: 97,
           name: "Action RPG",
           slug: "action-rpg",
           language: "eng",
-          games_count: 7504,
+          games_count: 7508,
           image_background:
-            "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+            "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg",
         },
         {
           id: 40852,
           name: "Steam Workshop",
           slug: "steam-workshop",
           language: "eng",
-          games_count: 1579,
+          games_count: 1580,
           image_background:
             "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
         },
@@ -3964,54 +3964,54 @@ export const gameList = {
           name: "Character Customization",
           slug: "character-customization",
           language: "eng",
-          games_count: 5294,
+          games_count: 5298,
           image_background:
-            "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg",
+            "https://media.rawg.io/media/games/33b/33b825c76382931df0fd8ecddf5caebe.jpg",
         },
         {
           id: 40,
           name: "Dark Fantasy",
           slug: "dark-fantasy",
           language: "eng",
-          games_count: 4642,
+          games_count: 4646,
           image_background:
-            "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg",
+            "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
         },
         {
           id: 66,
           name: "Medieval",
           slug: "medieval",
           language: "eng",
-          games_count: 6918,
+          games_count: 6919,
           image_background:
-            "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+            "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg",
         },
         {
           id: 82,
           name: "Magic",
           slug: "magic",
           language: "eng",
-          games_count: 10024,
+          games_count: 10028,
           image_background:
-            "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+            "https://media.rawg.io/media/games/e75/e75c54e5a9a2754bab181b2240472389.jpg",
         },
         {
           id: 205,
           name: "Lore-Rich",
           slug: "lore-rich",
           language: "eng",
-          games_count: 1577,
+          games_count: 1579,
           image_background:
-            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+            "https://media.rawg.io/media/games/635/635749dc78e4fbd29a9773abd0a49c5e.jpg",
         },
         {
           id: 215,
           name: "Dragons",
           slug: "dragons",
           language: "eng",
-          games_count: 2692,
+          games_count: 2693,
           image_background:
-            "https://media.rawg.io/media/games/add/add07a75a3f1e479b55dbe920d9fb13d.jpg",
+            "https://media.rawg.io/media/games/729/729822a7ac978607241a310677c7775d.jpg",
         },
       ],
       esrb_rating: {
@@ -4095,11 +4095,11 @@ export const gameList = {
       ],
       ratings_count: 5097,
       reviews_text_count: 78,
-      added: 15776,
+      added: 15779,
       added_by_status: {
         yet: 950,
-        owned: 8332,
-        beaten: 3253,
+        owned: 8334,
+        beaten: 3254,
         toplay: 1613,
         dropped: 705,
         playing: 923,
@@ -4121,9 +4121,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2018-10-26",
           requirements_en: {
@@ -4142,9 +4142,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2018-10-26",
           requirements_en: null,
@@ -4195,9 +4195,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
       ],
       stores: [
@@ -4208,9 +4208,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -4232,7 +4232,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -4257,25 +4257,25 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -4293,72 +4293,72 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 118,
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 26,
@@ -4374,90 +4374,90 @@ export const gameList = {
           name: "Exploration",
           slug: "exploration",
           language: "eng",
-          games_count: 24956,
+          games_count: 24964,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
         },
         {
           id: 37,
           name: "Sandbox",
           slug: "sandbox",
           language: "eng",
-          games_count: 7391,
+          games_count: 7393,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
         },
         {
           id: 34,
           name: "Violent",
           slug: "violent",
           language: "eng",
-          games_count: 7018,
+          games_count: 7020,
           image_background:
-            "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg",
+            "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg",
         },
         {
           id: 150,
           name: "Third-Person Shooter",
           slug: "third-person-shooter",
           language: "eng",
-          games_count: 3668,
+          games_count: 3670,
           image_background:
-            "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg",
+            "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg",
         },
         {
           id: 157,
           name: "PvP",
           slug: "pvp",
           language: "eng",
-          games_count: 10115,
+          games_count: 10121,
           image_background:
-            "https://media.rawg.io/media/games/179/179245a3693049a11a25b900ab18f8f7.jpg",
+            "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg",
         },
         {
           id: 40837,
           name: "In-App Purchases",
           slug: "in-app-purchases",
           language: "eng",
-          games_count: 2893,
+          games_count: 2894,
           image_background:
-            "https://media.rawg.io/media/games/651/651ae84f2d5e36206aad90976a453329.jpg",
+            "https://media.rawg.io/media/games/93e/93ee6101e1c943732f06080dddb0fe4c.jpg",
         },
         {
           id: 192,
           name: "Mature",
           slug: "mature",
           language: "eng",
-          games_count: 3628,
+          games_count: 3631,
           image_background:
-            "https://media.rawg.io/media/games/bd7/bd7cfccfececba1ec2b97a120a40373f.jpg",
+            "https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg",
         },
         {
           id: 89,
           name: "Historical",
           slug: "historical",
           language: "eng",
-          games_count: 3436,
+          games_count: 3437,
           image_background:
-            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
+            "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg",
         },
         {
           id: 77,
           name: "Realistic",
           slug: "realistic",
           language: "eng",
-          games_count: 6841,
+          games_count: 6845,
           image_background:
-            "https://media.rawg.io/media/games/ccd/ccd40e8f86c0ae10a082b610d31d4475.jpg",
+            "https://media.rawg.io/media/games/e43/e43f9f0a1429bd9332020ac5876bc693.jpg",
         },
         {
           id: 110,
           name: "Cinematic",
           slug: "cinematic",
           language: "eng",
-          games_count: 2538,
+          games_count: 2540,
           image_background:
-            "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
+            "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
         },
         {
           id: 144,
@@ -4473,9 +4473,9 @@ export const gameList = {
           name: "Online PvP",
           slug: "online-pvp",
           language: "eng",
-          games_count: 5107,
+          games_count: 5111,
           image_background:
-            "https://media.rawg.io/media/games/d2e/d2ee15fda80056efef174da4ca5ae54f.jpg",
+            "https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg",
         },
         {
           id: 478,
@@ -4631,10 +4631,10 @@ export const gameList = {
       ],
       ratings_count: 4045,
       reviews_text_count: 25,
-      added: 15526,
+      added: 15527,
       added_by_status: {
         yet: 833,
-        owned: 9319,
+        owned: 9320,
         beaten: 4344,
         toplay: 418,
         dropped: 514,
@@ -4657,9 +4657,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2013-03-26",
           requirements_en: null,
@@ -4689,9 +4689,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 5551,
+            games_count: 5552,
             image_background:
-              "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+              "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
           },
           released_at: "2013-03-26",
           requirements_en: null,
@@ -4705,9 +4705,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2013-03-26",
           requirements_en: null,
@@ -4721,9 +4721,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2013-03-26",
           requirements_en: {
@@ -4814,9 +4814,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -4871,9 +4871,9 @@ export const gameList = {
             name: "Nintendo Store",
             slug: "nintendo",
             domain: "nintendo.com",
-            games_count: 9085,
+            games_count: 9086,
             image_background:
-              "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+              "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
           },
         },
         {
@@ -4883,9 +4883,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -4895,7 +4895,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -4920,43 +4920,43 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -4983,7 +4983,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -4992,45 +4992,45 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 64,
           name: "Fantasy",
           slug: "fantasy",
           language: "eng",
-          games_count: 29382,
+          games_count: 29391,
           image_background:
-            "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+            "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg",
         },
         {
           id: 26,
@@ -5046,18 +5046,18 @@ export const gameList = {
           name: "Controller",
           slug: "controller",
           language: "eng",
-          games_count: 12617,
+          games_count: 12622,
           image_background:
-            "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg",
+            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
         },
         {
           id: 119,
           name: "Dystopian",
           slug: "dystopian",
           language: "eng",
-          games_count: 2287,
+          games_count: 2290,
           image_background:
-            "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
+            "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg",
         },
         {
           id: 154,
@@ -5073,18 +5073,18 @@ export const gameList = {
           name: "Linear",
           slug: "linear",
           language: "eng",
-          games_count: 7215,
+          games_count: 7222,
           image_background:
-            "https://media.rawg.io/media/games/736/736c0eaec96d848d7824b33298a182f2.jpg",
+            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
         },
         {
           id: 208,
           name: "Alternate History",
           slug: "alternate-history",
           language: "eng",
-          games_count: 1900,
+          games_count: 1901,
           image_background:
-            "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg",
+            "https://media.rawg.io/media/screenshots/36d/36d3861a6cdb4ae5b1ca44cec814be8b.jpg",
         },
         {
           id: 317,
@@ -5186,10 +5186,10 @@ export const gameList = {
       ],
       ratings_count: 3207,
       reviews_text_count: 12,
-      added: 15378,
+      added: 15381,
       added_by_status: {
         yet: 613,
-        owned: 10702,
+        owned: 10705,
         beaten: 2323,
         toplay: 237,
         dropped: 1290,
@@ -5228,9 +5228,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2012-09-18",
           requirements_en: null,
@@ -5244,9 +5244,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2012-09-18",
           requirements_en: {
@@ -5286,9 +5286,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2012-09-18",
           requirements_en: null,
@@ -5376,9 +5376,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -5392,9 +5392,9 @@ export const gameList = {
           id: 5,
           name: "RPG",
           slug: "role-playing-games-rpg",
-          games_count: 57980,
+          games_count: 57991,
           image_background:
-            "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+            "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
         },
       ],
       stores: [
@@ -5405,9 +5405,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -5429,7 +5429,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -5478,52 +5478,52 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -5541,7 +5541,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -5550,90 +5550,90 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 123,
           name: "Comedy",
           slug: "comedy",
           language: "eng",
-          games_count: 13145,
+          games_count: 13150,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg",
+            "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
         },
         {
           id: 97,
           name: "Action RPG",
           slug: "action-rpg",
           language: "eng",
-          games_count: 7504,
+          games_count: 7508,
           image_background:
-            "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+            "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg",
         },
         {
           id: 167,
           name: "Futuristic",
           slug: "futuristic",
           language: "eng",
-          games_count: 5839,
+          games_count: 5848,
           image_background:
-            "https://media.rawg.io/media/games/569/569ea25d2b56bd05c7fa309ddabe81ff.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 120,
@@ -5649,18 +5649,18 @@ export const gameList = {
           name: "Dark Humor",
           slug: "dark-humor",
           language: "eng",
-          games_count: 3198,
+          games_count: 3199,
           image_background:
-            "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg",
+            "https://media.rawg.io/media/games/bfb/bfb2bf7a0413443b1fcf0be7c3244053.jpg",
         },
         {
           id: 166,
           name: "Stylized",
           slug: "stylized",
           language: "eng",
-          games_count: 7565,
+          games_count: 7571,
           image_background:
-            "https://media.rawg.io/media/games/a6e/a6e83e0f449883b6df57ae52b6805756.jpg",
+            "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg",
         },
         {
           id: 98,
@@ -5753,10 +5753,10 @@ export const gameList = {
       ],
       ratings_count: 3645,
       reviews_text_count: 31,
-      added: 15365,
+      added: 15366,
       added_by_status: {
         yet: 781,
-        owned: 10006,
+        owned: 10007,
         beaten: 3419,
         toplay: 359,
         dropped: 649,
@@ -5779,9 +5779,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2015-01-29",
           requirements_en: null,
@@ -5795,9 +5795,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2015-01-29",
           requirements_en: null,
@@ -5827,9 +5827,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2015-01-29",
           requirements_en: null,
@@ -5896,9 +5896,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2015-01-29",
           requirements_en: null,
@@ -5977,9 +5977,9 @@ export const gameList = {
           id: 3,
           name: "Adventure",
           slug: "adventure",
-          games_count: 143711,
+          games_count: 143728,
           image_background:
-            "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+            "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
         },
       ],
       stores: [
@@ -6002,9 +6002,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -6014,7 +6014,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -6075,25 +6075,25 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -6120,45 +6120,45 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 189,
           name: "Female Protagonist",
           slug: "female-protagonist",
           language: "eng",
-          games_count: 13387,
+          games_count: 13395,
           image_background:
-            "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+            "https://media.rawg.io/media/games/10d/10d19e52e5e8415d16a4d344fe711874.jpg",
         },
         {
           id: 41,
           name: "Dark",
           slug: "dark",
           language: "eng",
-          games_count: 16673,
+          games_count: 16680,
           image_background:
-            "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg",
+            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
         },
         {
           id: 141,
           name: "Point & Click",
           slug: "point-click",
           language: "eng",
-          games_count: 13775,
+          games_count: 13779,
           image_background:
-            "https://media.rawg.io/media/games/3ef/3eff92562640e452d3487c04ba6d7fae.jpg",
+            "https://media.rawg.io/media/games/6a2/6a2e48933245e2cd3c92248c75c925e1.jpg",
         },
         {
           id: 111,
@@ -6174,18 +6174,18 @@ export const gameList = {
           name: "Mystery",
           slug: "mystery",
           language: "eng",
-          games_count: 14382,
+          games_count: 14391,
           image_background:
-            "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg",
+            "https://media.rawg.io/media/games/c00/c003705c0eaed100397ae408b7b89e90.jpg",
         },
         {
           id: 145,
           name: "Choices Matter",
           slug: "choices-matter",
           language: "eng",
-          games_count: 6291,
+          games_count: 6294,
           image_background:
-            "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg",
+            "https://media.rawg.io/media/games/046/0464f4a36cd975a37c95b93b06058855.jpg",
         },
         {
           id: 120,
@@ -6201,18 +6201,18 @@ export const gameList = {
           name: "Walking Simulator",
           slug: "walking-simulator",
           language: "eng",
-          games_count: 7687,
+          games_count: 7690,
           image_background:
-            "https://media.rawg.io/media/games/efd/efd6b2cb621c41a2b6580d8ac260b8ba.jpg",
+            "https://media.rawg.io/media/games/639/639ce7d7fecbb9f0717e9fbc1180f8f8.jpg",
         },
         {
           id: 218,
           name: "Multiple Endings",
           slug: "multiple-endings",
           language: "eng",
-          games_count: 9570,
+          games_count: 9574,
           image_background:
-            "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
+            "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
         },
         {
           id: 406,
@@ -6368,11 +6368,11 @@ export const gameList = {
       ],
       ratings_count: 3879,
       reviews_text_count: 17,
-      added: 15015,
+      added: 15021,
       added_by_status: {
         yet: 679,
-        owned: 9606,
-        beaten: 3763,
+        owned: 9611,
+        beaten: 3764,
         toplay: 317,
         dropped: 560,
         playing: 90,
@@ -6394,9 +6394,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2004-11-16",
           requirements_en: {
@@ -6418,9 +6418,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2004-11-16",
           requirements_en: {
@@ -6453,9 +6453,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2004-11-16",
           requirements_en: null,
@@ -6538,9 +6538,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -6559,7 +6559,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -6584,43 +6584,43 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -6647,54 +6647,54 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 16,
           name: "Horror",
           slug: "horror",
           language: "eng",
-          games_count: 45875,
+          games_count: 45884,
           image_background:
-            "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+            "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 193,
@@ -6710,9 +6710,9 @@ export const gameList = {
           name: "Zombies",
           slug: "zombies",
           language: "eng",
-          games_count: 10580,
+          games_count: 10582,
           image_background:
-            "https://media.rawg.io/media/games/56e/56ed40948bebaf1968234aa6e3c74771.jpg",
+            "https://media.rawg.io/media/games/1be/1be575aa6de86de328433a63fb534d9a.jpg",
         },
         {
           id: 62,
@@ -6737,9 +6737,9 @@ export const gameList = {
           name: "Physics",
           slug: "physics",
           language: "eng",
-          games_count: 19912,
+          games_count: 19913,
           image_background:
-            "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg",
+            "https://media.rawg.io/media/screenshots/ca8/ca840f2a8ebfc74aac1688367dc1f903.jpg",
         },
         {
           id: 172,
@@ -6755,9 +6755,9 @@ export const gameList = {
           name: "Dystopian",
           slug: "dystopian",
           language: "eng",
-          games_count: 2287,
+          games_count: 2290,
           image_background:
-            "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
+            "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg",
         },
         {
           id: 40839,
@@ -6868,14 +6868,14 @@ export const gameList = {
       ],
       ratings_count: 3253,
       reviews_text_count: 25,
-      added: 14080,
+      added: 14085,
       added_by_status: {
         yet: 632,
-        owned: 9092,
-        beaten: 3184,
+        owned: 9095,
+        beaten: 3185,
         toplay: 335,
         dropped: 726,
-        playing: 111,
+        playing: 112,
       },
       metacritic: 96,
       playtime: 3,
@@ -6910,9 +6910,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2007-08-21",
           requirements_en: null,
@@ -6926,9 +6926,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2007-08-21",
           requirements_en: {
@@ -6996,9 +6996,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -7017,9 +7017,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -7053,7 +7053,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -7078,16 +7078,16 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -7105,7 +7105,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -7114,54 +7114,54 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 16,
           name: "Horror",
           slug: "horror",
           language: "eng",
-          games_count: 45875,
+          games_count: 45884,
           image_background:
-            "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+            "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 193,
@@ -7177,27 +7177,27 @@ export const gameList = {
           name: "Action RPG",
           slug: "action-rpg",
           language: "eng",
-          games_count: 7504,
+          games_count: 7508,
           image_background:
-            "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+            "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg",
         },
         {
           id: 41,
           name: "Dark",
           slug: "dark",
           language: "eng",
-          games_count: 16673,
+          games_count: 16680,
           image_background:
-            "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg",
+            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
         },
         {
           id: 119,
           name: "Dystopian",
           slug: "dystopian",
           language: "eng",
-          games_count: 2287,
+          games_count: 2290,
           image_background:
-            "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
+            "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg",
         },
         {
           id: 154,
@@ -7213,9 +7213,9 @@ export const gameList = {
           name: "Alternate History",
           slug: "alternate-history",
           language: "eng",
-          games_count: 1900,
+          games_count: 1901,
           image_background:
-            "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg",
+            "https://media.rawg.io/media/screenshots/36d/36d3861a6cdb4ae5b1ca44cec814be8b.jpg",
         },
         {
           id: 287,
@@ -7231,9 +7231,9 @@ export const gameList = {
           name: "Underwater",
           slug: "underwater",
           language: "eng",
-          games_count: 2140,
+          games_count: 2142,
           image_background:
-            "https://media.rawg.io/media/games/b60/b60318b011b69252e97c11bbd194006f.jpg",
+            "https://media.rawg.io/media/games/386/3869a2540b5fd39776fd640686610d05.jpg",
         },
       ],
       esrb_rating: {
@@ -7317,13 +7317,13 @@ export const gameList = {
       ],
       ratings_count: 2615,
       reviews_text_count: 20,
-      added: 14010,
+      added: 14014,
       added_by_status: {
-        yet: 460,
-        owned: 10647,
+        yet: 461,
+        owned: 10649,
         beaten: 777,
         toplay: 170,
-        dropped: 1546,
+        dropped: 1547,
         playing: 410,
       },
       metacritic: 82,
@@ -7343,9 +7343,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2017-09-06",
           requirements_en: null,
@@ -7375,9 +7375,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2017-09-06",
           requirements_en: null,
@@ -7467,9 +7467,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -7500,9 +7500,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -7524,7 +7524,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -7537,34 +7537,34 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -7582,81 +7582,81 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 6,
           name: "Exploration",
           slug: "exploration",
           language: "eng",
-          games_count: 24956,
+          games_count: 24964,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
         },
         {
           id: 79,
           name: "Free to Play",
           slug: "free-to-play",
           language: "eng",
-          games_count: 7792,
+          games_count: 7794,
           image_background:
-            "https://media.rawg.io/media/games/d2c/d2c74dacd89fd817c2deb625b01adb1a.jpg",
+            "https://media.rawg.io/media/games/c92/c9207a31f0eeb9904a840fc26eae6afb.jpg",
         },
         {
           id: 397,
@@ -7672,45 +7672,45 @@ export const gameList = {
           name: "Action-Adventure",
           slug: "action-adventure",
           language: "eng",
-          games_count: 17901,
+          games_count: 17910,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
         },
         {
           id: 157,
           name: "PvP",
           slug: "pvp",
           language: "eng",
-          games_count: 10115,
+          games_count: 10121,
           image_background:
-            "https://media.rawg.io/media/games/179/179245a3693049a11a25b900ab18f8f7.jpg",
+            "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg",
         },
         {
           id: 25,
           name: "Space",
           slug: "space",
           language: "eng",
-          games_count: 43266,
+          games_count: 43267,
           image_background:
-            "https://media.rawg.io/media/games/bd2/bd2cc7714e0b9b1adad1ba1b2400d436.jpg",
+            "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg",
         },
         {
           id: 167,
           name: "Futuristic",
           slug: "futuristic",
           language: "eng",
-          games_count: 5839,
+          games_count: 5848,
           image_background:
-            "https://media.rawg.io/media/games/569/569ea25d2b56bd05c7fa309ddabe81ff.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 1465,
           name: "combat",
           slug: "combat",
           language: "eng",
-          games_count: 13425,
+          games_count: 13433,
           image_background:
-            "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+            "https://media.rawg.io/media/screenshots/7f8/7f8b58994fc420fefaa5fb9992335a11.jpg",
         },
         {
           id: 172,
@@ -7762,9 +7762,9 @@ export const gameList = {
           name: "PvE",
           slug: "pve",
           language: "eng",
-          games_count: 5840,
+          games_count: 5846,
           image_background:
-            "https://media.rawg.io/media/games/bde/bdef96f7782fba0ff62dabc37ff4b1f0.jpg",
+            "https://media.rawg.io/media/games/5f6/5f61441e6338e9221f96a8f4c64c7bb8.jpg",
         },
         {
           id: 98,
@@ -7780,9 +7780,9 @@ export const gameList = {
           name: "Lore-Rich",
           slug: "lore-rich",
           language: "eng",
-          games_count: 1577,
+          games_count: 1579,
           image_background:
-            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+            "https://media.rawg.io/media/games/635/635749dc78e4fbd29a9773abd0a49c5e.jpg",
         },
         {
           id: 2030,
@@ -8001,10 +8001,10 @@ export const gameList = {
       ],
       ratings_count: 4816,
       reviews_text_count: 72,
-      added: 13731,
+      added: 13733,
       added_by_status: {
         yet: 691,
-        owned: 7024,
+        owned: 7026,
         beaten: 4084,
         toplay: 1166,
         dropped: 353,
@@ -8027,9 +8027,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540242,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
           },
           released_at: "2018-04-20",
           requirements_en: {
@@ -8048,9 +8048,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2018-04-20",
           requirements_en: null,
@@ -8103,9 +8103,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -8460,10 +8460,10 @@ export const gameList = {
       ],
       ratings_count: 3299,
       reviews_text_count: 19,
-      added: 13665,
+      added: 13667,
       added_by_status: {
         yet: 627,
-        owned: 8677,
+        owned: 8679,
         beaten: 2282,
         toplay: 429,
         dropped: 1334,
@@ -8486,9 +8486,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2015-11-09",
           requirements_en: null,
@@ -8502,9 +8502,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2015-11-09",
           requirements_en: {
@@ -8576,17 +8576,17 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 5,
           name: "RPG",
           slug: "role-playing-games-rpg",
-          games_count: 57980,
+          games_count: 57991,
           image_background:
-            "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+            "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
         },
       ],
       stores: [
@@ -8597,9 +8597,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -8621,7 +8621,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -8634,43 +8634,43 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 40849,
           name: "Steam Cloud",
           slug: "steam-cloud",
           language: "eng",
-          games_count: 19972,
+          games_count: 19981,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -8688,7 +8688,7 @@ export const gameList = {
           name: "RPG",
           slug: "rpg",
           language: "eng",
-          games_count: 22739,
+          games_count: 22749,
           image_background:
             "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
         },
@@ -8697,108 +8697,108 @@ export const gameList = {
           name: "Story Rich",
           slug: "story-rich",
           language: "eng",
-          games_count: 23322,
+          games_count: 23329,
           image_background:
-            "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg",
+            "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
         },
         {
           id: 36,
           name: "Open World",
           slug: "open-world",
           language: "eng",
-          games_count: 8059,
+          games_count: 8060,
           image_background:
-            "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 149,
           name: "Third Person",
           slug: "third-person",
           language: "eng",
-          games_count: 12475,
+          games_count: 12481,
           image_background:
-            "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
         },
         {
           id: 32,
           name: "Sci-fi",
           slug: "sci-fi",
           language: "eng",
-          games_count: 20025,
+          games_count: 20035,
           image_background:
-            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+            "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 6,
           name: "Exploration",
           slug: "exploration",
           language: "eng",
-          games_count: 24956,
+          games_count: 24964,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
         },
         {
           id: 37,
           name: "Sandbox",
           slug: "sandbox",
           language: "eng",
-          games_count: 7391,
+          games_count: 7393,
           image_background:
-            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
         },
         {
           id: 1,
           name: "Survival",
           slug: "survival",
           language: "eng",
-          games_count: 9364,
+          games_count: 9367,
           image_background:
-            "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg",
+            "https://media.rawg.io/media/games/ebd/ebdbb7eb52bd58b0e7fa4538d9757b60.jpg",
         },
         {
           id: 97,
           name: "Action RPG",
           slug: "action-rpg",
           language: "eng",
-          games_count: 7504,
+          games_count: 7508,
           image_background:
-            "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg",
+            "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg",
         },
         {
           id: 150,
           name: "Third-Person Shooter",
           slug: "third-person-shooter",
           language: "eng",
-          games_count: 3668,
+          games_count: 3670,
           image_background:
-            "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg",
+            "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg",
         },
         {
           id: 43,
           name: "Post-apocalyptic",
           slug: "post-apocalyptic",
           language: "eng",
-          games_count: 4258,
+          games_count: 4263,
           image_background:
-            "https://media.rawg.io/media/games/152/152e788b7504aa2753c86dae912fb34c.jpg",
+            "https://media.rawg.io/media/games/447/4470c1e76f01acfaf5af9c207d1c1c92.jpg",
         },
       ],
       esrb_rating: {
@@ -8908,9 +8908,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2024-11-01",
           requirements_en: {
@@ -8966,9 +8966,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 6861,
+            games_count: 6862,
             image_background:
-              "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+              "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
           },
           released_at: "2010-07-21",
           requirements_en: null,
@@ -9014,9 +9014,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2010-07-21",
           requirements_en: {
@@ -9033,9 +9033,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2010-07-21",
           requirements_en: {
@@ -9087,9 +9087,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 5551,
+            games_count: 5552,
             image_background:
-              "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+              "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
           },
           released_at: "2010-07-21",
           requirements_en: null,
@@ -9159,25 +9159,25 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 3,
           name: "Adventure",
           slug: "adventure",
-          games_count: 143711,
+          games_count: 143728,
           image_background:
-            "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+            "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
         },
         {
           id: 51,
           name: "Indie",
           slug: "indie",
-          games_count: 72168,
+          games_count: 72210,
           image_background:
-            "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
+            "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg",
         },
         {
           id: 7,
@@ -9216,9 +9216,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -9240,7 +9240,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -9276,9 +9276,9 @@ export const gameList = {
             name: "Nintendo Store",
             slug: "nintendo",
             domain: "nintendo.com",
-            games_count: 9085,
+            games_count: 9086,
             image_background:
-              "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+              "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
           },
         },
         {
@@ -9313,25 +9313,25 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 13,
           name: "Atmospheric",
           slug: "atmospheric",
           language: "eng",
-          games_count: 35205,
+          games_count: 35217,
           image_background:
             "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
@@ -9340,18 +9340,18 @@ export const gameList = {
           name: "2D",
           slug: "2d",
           language: "eng",
-          games_count: 199037,
+          games_count: 199060,
           image_background:
-            "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg",
+            "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg",
         },
         {
           id: 16,
           name: "Horror",
           slug: "horror",
           language: "eng",
-          games_count: 45875,
+          games_count: 45884,
           image_background:
-            "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+            "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
         },
         {
           id: 49,
@@ -9367,36 +9367,36 @@ export const gameList = {
           name: "Action-Adventure",
           slug: "action-adventure",
           language: "eng",
-          games_count: 17901,
+          games_count: 17910,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
         },
         {
           id: 122,
           name: "Pixel Graphics",
           slug: "pixel-graphics",
           language: "eng",
-          games_count: 95207,
+          games_count: 95217,
           image_background:
-            "https://media.rawg.io/media/games/003/0031c0067559d41df19cf98ad87e02aa.jpg",
+            "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg",
         },
         {
           id: 115,
           name: "Controller",
           slug: "controller",
           language: "eng",
-          games_count: 12617,
+          games_count: 12622,
           image_background:
-            "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg",
+            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
         },
         {
           id: 41,
           name: "Dark",
           slug: "dark",
           language: "eng",
-          games_count: 16673,
+          games_count: 16680,
           image_background:
-            "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg",
+            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
         },
         {
           id: 336,
@@ -9421,63 +9421,63 @@ export const gameList = {
           name: "Dark Fantasy",
           slug: "dark-fantasy",
           language: "eng",
-          games_count: 4642,
+          games_count: 4646,
           image_background:
-            "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg",
+            "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
         },
         {
           id: 114,
           name: "Physics",
           slug: "physics",
           language: "eng",
-          games_count: 19912,
+          games_count: 19913,
           image_background:
-            "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg",
+            "https://media.rawg.io/media/screenshots/ca8/ca840f2a8ebfc74aac1688367dc1f903.jpg",
         },
         {
           id: 113,
           name: "Side Scroller",
           slug: "side-scroller",
           language: "eng",
-          games_count: 10919,
+          games_count: 10921,
           image_background:
-            "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+            "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg",
         },
         {
           id: 110,
           name: "Cinematic",
           slug: "cinematic",
           language: "eng",
-          games_count: 2538,
+          games_count: 2540,
           image_background:
-            "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
+            "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
         },
         {
           id: 1465,
           name: "combat",
           slug: "combat",
           language: "eng",
-          games_count: 13425,
+          games_count: 13433,
           image_background:
-            "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+            "https://media.rawg.io/media/screenshots/7f8/7f8b58994fc420fefaa5fb9992335a11.jpg",
         },
         {
           id: 305,
           name: "Linear",
           slug: "linear",
           language: "eng",
-          games_count: 7215,
+          games_count: 7222,
           image_background:
-            "https://media.rawg.io/media/games/736/736c0eaec96d848d7824b33298a182f2.jpg",
+            "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
         },
         {
           id: 46,
           name: "Surreal",
           slug: "surreal",
           language: "eng",
-          games_count: 5717,
+          games_count: 5722,
           image_background:
-            "https://media.rawg.io/media/screenshots/fe0/fe0ccce931cdb5aaff9500a331e5c2eb.jpg",
+            "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg",
         },
         {
           id: 83,
@@ -9493,63 +9493,63 @@ export const gameList = {
           name: "Minimalist",
           slug: "minimalist",
           language: "eng",
-          games_count: 15860,
+          games_count: 15862,
           image_background:
-            "https://media.rawg.io/media/screenshots/120/120d930368bc171c42f9caab94e33c65.jpg",
+            "https://media.rawg.io/media/screenshots/a62/a62fb9a34ba7d37b87679387beabc970.jpg",
         },
         {
           id: 135,
           name: "2D Fighter",
           slug: "2d-fighter",
           language: "eng",
-          games_count: 1316,
+          games_count: 1317,
           image_background:
-            "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
+            "https://media.rawg.io/media/screenshots/484/4848bcf4deb6eeb3228048c7497dc1a6.jpg",
         },
         {
           id: 289,
           name: "Noir",
           slug: "noir",
           language: "eng",
-          games_count: 1424,
+          games_count: 1426,
           image_background:
-            "https://media.rawg.io/media/games/b51/b51c46cccb277e6451e2a67e4213a820.jpg",
+            "https://media.rawg.io/media/screenshots/206/206aa0c96fe92c8aee4836233d356d87.jpg",
         },
         {
           id: 49959,
           name: "2D Platformer",
           slug: "2d-platformer-3",
           language: "eng",
-          games_count: 7245,
+          games_count: 7251,
           image_background:
-            "https://media.rawg.io/media/screenshots/0da/0dab7553a533264235d77719bd83a5b2.jpg",
+            "https://media.rawg.io/media/games/470/47058af09b864c2d211a08271eccfb4f.jpg",
         },
         {
           id: 49995,
           name: "2D-платформер",
           slug: "2d-platformer-4",
           language: "eng",
-          games_count: 7200,
+          games_count: 7206,
           image_background:
-            "https://media.rawg.io/media/games/815/815087cd6bdf4792075031e469b8f1d0.jpg",
+            "https://media.rawg.io/media/games/5f2/5f25cf08217b40b9d8f02f95db1fdc1d.jpg",
         },
         {
           id: 91686,
           name: "Family Sharing",
           slug: "family-sharing",
           language: "eng",
-          games_count: 11609,
+          games_count: 11656,
           image_background:
-            "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+            "https://media.rawg.io/media/games/3e8/3e81585ecda204d4f4b80a041b069adb.jpg",
         },
         {
           id: 56825,
           name: "2D-файтинг",
           slug: "2d-faiting",
           language: "eng",
-          games_count: 1092,
+          games_count: 1093,
           image_background:
-            "https://media.rawg.io/media/games/dfe/dfe14d30ed6fccd9db4ae79d3be51d54.jpg",
+            "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
         },
       ],
       esrb_rating: {
@@ -9633,10 +9633,10 @@ export const gameList = {
       ],
       ratings_count: 2171,
       reviews_text_count: 14,
-      added: 13602,
+      added: 13604,
       added_by_status: {
         yet: 499,
-        owned: 10644,
+        owned: 10646,
         beaten: 808,
         toplay: 106,
         dropped: 1423,
@@ -9659,9 +9659,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2013-08-13",
           requirements_en: null,
@@ -9675,9 +9675,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2013-08-13",
           requirements_en: {
@@ -9733,9 +9733,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -9766,9 +9766,9 @@ export const gameList = {
             name: "PlayStation Store",
             slug: "playstation-store",
             domain: "store.playstation.com",
-            games_count: 7990,
+            games_count: 7991,
             image_background:
-              "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+              "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
           },
         },
         {
@@ -9778,7 +9778,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -9790,9 +9790,9 @@ export const gameList = {
             name: "Nintendo Store",
             slug: "nintendo",
             domain: "nintendo.com",
-            games_count: 9085,
+            games_count: 9086,
             image_background:
-              "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+              "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
           },
         },
         {
@@ -9815,36 +9815,36 @@ export const gameList = {
           name: "Singleplayer",
           slug: "singleplayer",
           language: "eng",
-          games_count: 231813,
+          games_count: 231859,
           image_background:
-            "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
         },
         {
           id: 40847,
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 40836,
           name: "Full controller support",
           slug: "full-controller-support",
           language: "eng",
-          games_count: 19833,
+          games_count: 19843,
           image_background:
-            "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+            "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
         },
         {
           id: 7808,
@@ -9869,63 +9869,63 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 15,
           name: "Stealth",
           slug: "stealth",
           language: "eng",
-          games_count: 6539,
+          games_count: 6542,
           image_background:
-            "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+            "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
         },
         {
           id: 80,
@@ -9941,18 +9941,18 @@ export const gameList = {
           name: "In-App Purchases",
           slug: "in-app-purchases",
           language: "eng",
-          games_count: 2893,
+          games_count: 2894,
           image_background:
-            "https://media.rawg.io/media/games/651/651ae84f2d5e36206aad90976a453329.jpg",
+            "https://media.rawg.io/media/games/93e/93ee6101e1c943732f06080dddb0fe4c.jpg",
         },
         {
           id: 11,
           name: "Team-Based",
           slug: "team-based",
           language: "eng",
-          games_count: 1743,
+          games_count: 1744,
           image_background:
-            "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg",
+            "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
         },
         {
           id: 144,
@@ -9968,9 +9968,9 @@ export const gameList = {
           name: "PvE",
           slug: "pve",
           language: "eng",
-          games_count: 5840,
+          games_count: 5846,
           image_background:
-            "https://media.rawg.io/media/games/bde/bdef96f7782fba0ff62dabc37ff4b1f0.jpg",
+            "https://media.rawg.io/media/games/5f6/5f61441e6338e9221f96a8f4c64c7bb8.jpg",
         },
         {
           id: 216,
@@ -9986,9 +9986,9 @@ export const gameList = {
           name: "Gun Customization",
           slug: "gun-customization",
           language: "eng",
-          games_count: 653,
+          games_count: 654,
           image_background:
-            "https://media.rawg.io/media/games/55c/55c7e7a972d361db3677c1dd10a5558d.jpg",
+            "https://media.rawg.io/media/screenshots/ae0/ae0bb3c16d0660acb18b197d5856baf8.jpg",
         },
       ],
       esrb_rating: {
@@ -10072,10 +10072,10 @@ export const gameList = {
       ],
       ratings_count: 2867,
       reviews_text_count: 19,
-      added: 13481,
+      added: 13484,
       added_by_status: {
         yet: 191,
-        owned: 10464,
+        owned: 10467,
         beaten: 800,
         toplay: 49,
         dropped: 1803,
@@ -10098,9 +10098,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 540241,
+            games_count: 540292,
             image_background:
-              "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+              "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
           },
           released_at: "2007-10-10",
           requirements_en: {
@@ -10124,9 +10124,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 105289,
+            games_count: 105294,
             image_background:
-              "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+              "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
           },
           released_at: "2007-10-10",
           requirements_en: {
@@ -10143,9 +10143,9 @@ export const gameList = {
             image: null,
             year_end: null,
             year_start: null,
-            games_count: 78049,
+            games_count: 78052,
             image_background:
-              "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+              "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
           },
           released_at: "2007-10-10",
           requirements_en: {
@@ -10183,9 +10183,9 @@ export const gameList = {
           id: 4,
           name: "Action",
           slug: "action",
-          games_count: 183894,
+          games_count: 183915,
           image_background:
-            "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+            "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
         },
         {
           id: 2,
@@ -10204,7 +10204,7 @@ export const gameList = {
             name: "Steam",
             slug: "steam",
             domain: "store.steampowered.com",
-            games_count: 103277,
+            games_count: 103327,
             image_background:
               "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
           },
@@ -10217,18 +10217,18 @@ export const gameList = {
           name: "Steam Achievements",
           slug: "steam-achievements",
           language: "eng",
-          games_count: 41762,
+          games_count: 41781,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+            "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
         },
         {
           id: 7,
           name: "Multiplayer",
           slug: "multiplayer",
           language: "eng",
-          games_count: 39418,
+          games_count: 39427,
           image_background:
-            "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 7808,
@@ -10244,81 +10244,81 @@ export const gameList = {
           name: "Co-op",
           slug: "co-op",
           language: "eng",
-          games_count: 12472,
+          games_count: 12479,
           image_background:
-            "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
         },
         {
           id: 411,
           name: "cooperative",
           slug: "cooperative",
           language: "eng",
-          games_count: 5493,
+          games_count: 5496,
           image_background:
-            "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
         },
         {
           id: 8,
           name: "First-Person",
           slug: "first-person",
           language: "eng",
-          games_count: 33357,
+          games_count: 33365,
           image_background:
-            "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+            "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
         },
         {
           id: 40845,
           name: "Partial Controller Support",
           slug: "partial-controller-support",
           language: "eng",
-          games_count: 12443,
+          games_count: 12447,
           image_background:
-            "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg",
+            "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
         },
         {
           id: 30,
           name: "FPS",
           slug: "fps",
           language: "eng",
-          games_count: 13772,
+          games_count: 13775,
           image_background:
-            "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
         },
         {
           id: 9,
           name: "Online Co-Op",
           slug: "online-co-op",
           language: "eng",
-          games_count: 6237,
+          games_count: 6243,
           image_background:
-            "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg",
+            "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
         },
         {
           id: 4,
           name: "Funny",
           slug: "funny",
           language: "eng",
-          games_count: 26043,
+          games_count: 26047,
           image_background:
-            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+            "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg",
         },
         {
           id: 123,
           name: "Comedy",
           slug: "comedy",
           language: "eng",
-          games_count: 13145,
+          games_count: 13150,
           image_background:
-            "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg",
+            "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
         },
         {
           id: 79,
           name: "Free to Play",
           slug: "free-to-play",
           language: "eng",
-          games_count: 7792,
+          games_count: 7794,
           image_background:
-            "https://media.rawg.io/media/games/d2c/d2c74dacd89fd817c2deb625b01adb1a.jpg",
+            "https://media.rawg.io/media/games/c92/c9207a31f0eeb9904a840fc26eae6afb.jpg",
         },
         {
           id: 80,
@@ -10334,16 +10334,16 @@ export const gameList = {
           name: "stats",
           slug: "stats",
           language: "eng",
-          games_count: 5207,
+          games_count: 5209,
           image_background:
-            "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg",
+            "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
         },
         {
           id: 40852,
           name: "Steam Workshop",
           slug: "steam-workshop",
           language: "eng",
-          games_count: 1579,
+          games_count: 1580,
           image_background:
             "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
         },
@@ -10352,18 +10352,18 @@ export const gameList = {
           name: "Cross-Platform Multiplayer",
           slug: "cross-platform-multiplayer",
           language: "eng",
-          games_count: 2791,
+          games_count: 2792,
           image_background:
-            "https://media.rawg.io/media/games/21b/21babfc41e2a6972290833d1b860f13e.jpg",
+            "https://media.rawg.io/media/games/5f6/5f61441e6338e9221f96a8f4c64c7bb8.jpg",
         },
         {
           id: 40838,
           name: "Includes level editor",
           slug: "includes-level-editor",
           language: "eng",
-          games_count: 1962,
+          games_count: 1963,
           image_background:
-            "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+            "https://media.rawg.io/media/games/003/0031c0067559d41df19cf98ad87e02aa.jpg",
         },
         {
           id: 62,
@@ -10379,9 +10379,9 @@ export const gameList = {
           name: "In-App Purchases",
           slug: "in-app-purchases",
           language: "eng",
-          games_count: 2893,
+          games_count: 2894,
           image_background:
-            "https://media.rawg.io/media/games/651/651ae84f2d5e36206aad90976a453329.jpg",
+            "https://media.rawg.io/media/games/93e/93ee6101e1c943732f06080dddb0fe4c.jpg",
         },
         {
           id: 40833,
@@ -10397,18 +10397,18 @@ export const gameList = {
           name: "Crafting",
           slug: "crafting",
           language: "eng",
-          games_count: 4564,
+          games_count: 4566,
           image_background:
-            "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
+            "https://media.rawg.io/media/games/1be/1be575aa6de86de328433a63fb534d9a.jpg",
         },
         {
           id: 11,
           name: "Team-Based",
           slug: "team-based",
           language: "eng",
-          games_count: 1743,
+          games_count: 1744,
           image_background:
-            "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg",
+            "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
         },
         {
           id: 170,
@@ -10451,27 +10451,27 @@ export const gameList = {
           name: "Cartoony",
           slug: "cartoony",
           language: "eng",
-          games_count: 6582,
+          games_count: 6587,
           image_background:
-            "https://media.rawg.io/media/games/e44/e445335e611b4ccf03af71fffcbd30a4.jpg",
+            "https://media.rawg.io/media/games/a4c/a4c1fd4265ac2c1edc87cb9a6a7644e4.jpg",
         },
         {
           id: 179,
           name: "Cartoon",
           slug: "cartoon",
           language: "eng",
-          games_count: 6451,
+          games_count: 6453,
           image_background:
-            "https://media.rawg.io/media/games/b74/b74b15a48ac7bc37fbb42ee4afcc0b91.jpg",
+            "https://media.rawg.io/media/games/075/0753492cda7ee3c9bd4a3ca673fd0c8c.jpg",
         },
         {
           id: 265,
           name: "Class-Based",
           slug: "class-based",
           language: "eng",
-          games_count: 713,
+          games_count: 714,
           image_background:
-            "https://media.rawg.io/media/games/7b1/7b184215cc792ea2abf115f4e566b486.jpg",
+            "https://media.rawg.io/media/games/98c/98c87b286cd2a2ba942167df384a9bd3.jpg",
         },
         {
           id: 245,
@@ -10544,7 +10544,7 @@ export const gameList = {
         years: [
           {
             year: 2024,
-            count: 15863,
+            count: 15981,
             nofollow: false,
           },
           {
@@ -10569,7 +10569,7 @@ export const gameList = {
           },
         ],
         nofollow: true,
-        count: 526074,
+        count: 526192,
       },
       {
         from: 2010,

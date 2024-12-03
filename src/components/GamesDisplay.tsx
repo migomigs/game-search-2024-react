@@ -1,9 +1,25 @@
-import React from 'react'
+import { Game } from "@/hooks/games-hooks";
+import { Box, Grid, GridItem, Image, Text } from "@chakra-ui/react";
 
-const GamesDisplay = () => {
+const GamesDisplay = ({ games }: { games: Game[] }) => {
   return (
-    <div>GamesDisplay</div>
-  )
-}
+    <div>
+      <h1>Games</h1>
 
-export default GamesDisplay
+      <Grid templateColumns="repeat(3, 1fr)" gap="4">
+        {games.map((game: Game) => {
+          return (
+            <GridItem key={game.name}>
+              <Box>
+                <Image src={game.background_image} />
+              </Box>
+              <Text>{game.name}</Text>
+            </GridItem>
+          );
+        })}
+      </Grid>
+    </div>
+  );
+};
+
+export default GamesDisplay;

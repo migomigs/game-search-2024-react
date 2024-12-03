@@ -1,19 +1,15 @@
 import { Flex, Image } from "@chakra-ui/react";
-import { useEffect } from "react";
 import "./App.css";
 import logo from "./assets/logo.webp";
 import GamesDisplay from "./components/GamesDisplay";
 import GenreSelect from "./components/GenreSelect";
 import ModeSelect from "./components/ModeSelect";
 import SearchBar from "./components/SearchBar";
-import gameService from "./services/game-service";
+import useGames from "./hooks/games-hooks";
 
 function App() {
-  useEffect(() => {
-    gameService.getAllGames().then((res) => {
-      console.log("res", res);
-    });
-  }, []);
+  const { games } = useGames();
+
   return (
     <Flex direction="column">
       <Flex gap="1" justify="space-between">
@@ -32,7 +28,7 @@ function App() {
           <GenreSelect />
         </Flex>
         <Flex flexGrow="1">
-          <GamesDisplay />
+          <GamesDisplay games={games} />
         </Flex>
       </Flex>
     </Flex>

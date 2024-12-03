@@ -1,16 +1,11 @@
-import axios from "axios";
+import HttpService from "./http-service";
 
 class GameService {
-  getAllGames() {
-    const request = axios.create({
-      baseURL: "/api/games",
-      headers: {
-        "Content-Type": "application/json",
-        token: "861a7903b4474782a2c751a0380c02da",
-      },
-    });
+  endPoint = "/games";
+  httpService = new HttpService(this.endPoint);
 
-    return request.get("");
+  get(params?: URLSearchParams) {
+    return this.httpService.get(params);
   }
 }
 
